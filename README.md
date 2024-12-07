@@ -22,6 +22,7 @@ See error:
 ➤ YN0000: Failed with errors in 9s 310ms
 ```
 
+`build.log`:
 ```
 # This file contains the result of Yarn building a package (@expensify/react-native-live-markdown@virtual:4ebec940cecc17a5e71591f2b19524da5e082df6a9a486d4520b54da6110f56072da8631415ea3095bc355968e67f9cfa6cb67145fc3af5616c0408b04a40b79#npm:0.1.199)
 # Script name: postinstall
